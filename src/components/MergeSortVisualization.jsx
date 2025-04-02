@@ -164,10 +164,10 @@ const MergeSortVisualization = () => {
             explanation={explanation}
           />
           
-          <SubArrayStructure
+          {/* <SubArrayStructure
             subArrays={subArrays}
             array={array}
-          />
+          /> */}
           
           <VisualizationArray
             array={array}
